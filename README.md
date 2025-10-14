@@ -30,7 +30,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Payment Processing: Ensure secure and transparent transactions.
 - Review System: Creation and management of user reviews.
 
-#Api Security
+#API Security
 1. Authentication
 
 All API routes that handle sensitive operations (e.g., creating, updating, or deleting data) require authentication using JSON Web Tokens (JWT).
